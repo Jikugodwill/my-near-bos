@@ -1,0 +1,16 @@
+{
+  "name": "my-near-bos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jikugodwill/my-near-bos.git",
+  "author": "Jiku Godwill <jikugodwill@yahoo.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "bw": "bos-workspace",
+    "dev": "bw dev"
+  },
+  "devDependencies": {
+    "bos-workspace": "^1.0.0-alpha.37"
+  }
+}
